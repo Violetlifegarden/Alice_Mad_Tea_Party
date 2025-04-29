@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.huashanlunjian.alice_mad_tea_party.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "alice_mad_tea_party.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
