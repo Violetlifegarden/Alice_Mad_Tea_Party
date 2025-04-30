@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "amara:item/pachulinotebook"
+    "layer0": "alice_mad_tea_party:item/magicdoll"
   }
 }

@@ -1,5 +1,6 @@
 {
-  "itemGroup.alice_mad_tea_party": "Example Mod Tab",
-  "block.alice_mad_tea_party.example_block": "Example Block",
-  "item.alice_mad_tea_party.example_item": "Example Item"
+  "itemgroup.alice_doll": "Alice's Doll",
+  "entity.alice_mad_tea_party.song": "Magic Doll",
+  "item.alice_mad_tea_party.magicdoll": "Magic Doll",
+  "item.alice_mad_tea_party.magicline": "Magic Line"
 }
